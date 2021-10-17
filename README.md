@@ -1,1 +1,1 @@
-This is my first website project for The Odin Project. I expect to learn how to set up organized HTML pages.
+This is my first website project for The Odin Project. I expect to learn how to set up organized HTML pages. I'll also get more comfortable with using Git.
